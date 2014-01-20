@@ -1,0 +1,15 @@
+README
+
+DBoard is an open source soundboard created by David Berman (dberm22@gmail.com). 
+
+1. To launch the app, use the launch scripped located in this folder.
+
+2. If it is your first time using it, create a new board and enter a name for it. Otherwise, you can open an already created board.
+
+3. From here, you can add files by dragging and dropping. We currenly support MP3s, WAVs, OGGs, AUs, and AIFFs.
+
+4. You can also customize the look of your board by going to Edit > Preferences.
+
+WARNING: Do not delete the Empty.txt file in the boards directory. It is needed to create new boards.
+
+Enjoy!
